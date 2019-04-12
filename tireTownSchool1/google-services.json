@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721537170547",
+    "firebase_url": "https://storybook-tiretownschool.firebaseio.com",
+    "project_id": "storybook-tiretownschool",
+    "storage_bucket": "storybook-tiretownschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721537170547:android:03bc94c1e5e0be9f",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.tiretownschool1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721537170547-1b52c7ci11mjikmrdc839b9bjq4fei86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5M8kKXPHQX9A6KFzhz5aig__EbJoyrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721537170547-1b52c7ci11mjikmrdc839b9bjq4fei86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
