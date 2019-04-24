@@ -1,4 +1,0 @@
-#Fri Apr 12 14:34:33 KST 2019
-base.0=D\:\\android_studio_workspace\\TireTownSchool1_Templete\\tireTownSchool1\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
