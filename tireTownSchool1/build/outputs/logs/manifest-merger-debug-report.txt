@@ -31,7 +31,7 @@ MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\only340\.gradl
 MERGED from [com.github.only2433:LittlefoxLogMoniter:1.0.4] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxLogMoniter-1.0.4.aar\af66c8235d1b1389cf229a26244942d5\AndroidManifest.xml:2:1-22:12
 MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\57a7cee41084d18909e79370967d95e7\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\88a3c36924191738233003c510f4862f\AndroidManifest.xml:2:1-20:12
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:2:1-22:12
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:2:1-22:12
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\636c88d6e684966f6ffcea71f7e8f01d\AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\33eea3415b0d43bf5b95bbf053f8ecab\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\44961c2d4cca367cf341a8077f9a741b\AndroidManifest.xml:17:1-22:12
@@ -86,14 +86,14 @@ ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:7:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:14:5-80
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:14:5-80
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:14:5-80
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:7:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:8:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:16:5-81
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:16:5-81
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:16:5-81
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:8:22-78
 uses-permission#com.android.vending.BILLING
@@ -112,8 +112,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\5fe3b92eb992df9f0e8ba76f95e55ddf\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:23:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:13:5-67
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:13:5-67
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:15:22-64
 uses-permission#android.permission.WAKE_LOCK
@@ -128,8 +128,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\5fe3b92eb992df9f0e8ba76f95e55ddf\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:25:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:15:5-68
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:15:5-68
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:15:5-68
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:19:22-65
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
@@ -142,8 +142,8 @@ ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:22:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:12:5-76
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:12:5-76
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:12:5-76
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:22:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -158,8 +158,8 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-impl:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-impl-16.4.0.aar\5fe3b92eb992df9f0e8ba76f95e55ddf\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.4.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.4.0.aar\490f4e99379867041780caac4c8a2320\AndroidManifest.xml:24:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:11:5-79
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:11:5-79
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:11:5-79
 	android:name
 		ADDED from D:\android_studio_workspace\TireTownSchool1_Templete\tireTownSchool1\src\main\AndroidManifest.xml:23:22-76
 application
@@ -392,8 +392,8 @@ MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\
 MERGED from [com.github.only2433:LittlefoxSystemLibrary:1.0.9] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxSystemLibrary-1.0.9.aar\57a7cee41084d18909e79370967d95e7\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\88a3c36924191738233003c510f4862f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.only2433:LittlefoxViewLibrary:1.0.14] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\LittlefoxViewLibrary-1.0.14.aar\88a3c36924191738233003c510f4862f\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.17] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.17.aar\7469b4503173f85a4221767992597f16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.only2433:StorybookTempleteLibrary:1.0.18] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\StorybookTempleteLibrary-1.0.18.aar\eeb182c3b64a50d1bb695d017154801f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\636c88d6e684966f6ffcea71f7e8f01d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.ssomai:android.scalablelayout:2.1.1] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\android.scalablelayout-2.1.1.aar\636c88d6e684966f6ffcea71f7e8f01d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\only340\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\33eea3415b0d43bf5b95bbf053f8ecab\AndroidManifest.xml:6:5-8:41
